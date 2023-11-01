@@ -1,0 +1,9 @@
+memory_limit
+max_input_vars
+cgi.fix
+upload_max_filesize
+max_execution_time
+date.timezone
+
+
+
